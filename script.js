@@ -1,1 +1,2 @@
-alert(test"test")
+message("test")
+print("test")
