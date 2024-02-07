@@ -3,3 +3,5 @@ function crash() {
     window.open("https://www.google.com/?safe=active&ssui=on", "_blank")
   }
 }
+
+alert("welcome")
