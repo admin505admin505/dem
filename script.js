@@ -1,2 +1,1 @@
-message("test")
-print("test")
+alert("test");
