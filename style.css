@@ -14,6 +14,7 @@ h1{
 }
 
 header{
-    color:light-grey;
     text-align:center;
+    font-size:30px;
+    color:#ff0000;
 }
